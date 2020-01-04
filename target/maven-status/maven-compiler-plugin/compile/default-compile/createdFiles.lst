@@ -1,0 +1,5 @@
+com\test\soap\HelloWorldImplService.class
+com\test\soap\ControllerSoap.class
+com\test\soap\ModeInput.class
+com\test\soap\HelloWorld.class
+com\test\soap\Main.class
