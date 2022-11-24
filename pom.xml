@@ -21,7 +21,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <spring-framework-version>4.1.5.RELEASE</spring-framework-version>
-    <hibernate.version>4.3.8.Final</hibernate.version>
+    <hibernate.version>5.3.20.Final</hibernate.version>
     <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
     <spring.version>4.1.1.RELEASE</spring.version>
     <spring-framework.version>4.2.4.RELEASE</spring-framework.version>
